@@ -13,5 +13,4 @@
   <img align="center" alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 </div><br/>
 
-  Tenho um grande apreço pela tecnologia. Com conhecimentos em banco de dados, tenho o objetivo em expandir minha expertise em ferramentas importantes para que eu possa me tornar um ótimo profissional e contribuir para empresas com soluções inovadoras. 
-Estive participando em projetos de desenvolvimento de sistema de biblioteca e chat de comunicação entre redes, tudo isso trabalhando, também, com o front-end mas com um foco maior no back-end.
+  Tenho grande apreço pela tecnologia. Com conhecimentos em banco de dados, tenho o objetivo de expandir minha expertise em ferramentas importantes para que eu possa me tornar um ótimo profissional e contribuir para empresas com soluções inovadoras. Participei de projetos de desenvolvimento de sistemas, trabalhando também com o front-end, mas com um foco maior no back-end.
